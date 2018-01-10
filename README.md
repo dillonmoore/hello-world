@@ -1,2 +1,3 @@
 # hello-world
-first test repository
+
+running through the initial tutorial.
